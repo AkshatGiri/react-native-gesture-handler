@@ -1,11 +1,11 @@
 #import "RNGestureHandlerManager.h"
-#import "RCTRootContentView.h"
 
 #import <React/RCTLog.h>
 #import <React/RCTViewManager.h>
 #import <React/RCTComponent.h>
 #import <React/RCTRootView.h>
 #import <React/RCTTouchHandler.h>
+#import <React/RCTRootContentView.h>
 
 #import "RNGestureHandlerState.h"
 #import "RNGestureHandler.h"
